@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+.body {
+    width: 300px;
+    height: 100px;
+}
+
+
+.button-group {
+    display: flex;
+
+}
+
+
+.button-group {
+    margin-right: 10px;
+
+}
+
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.task-item {
+    flex: 1;
+
+    margin-right: 30px;
+
+}
+
+.error {
+    color: red;
+}
